@@ -1,13 +1,33 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-08-contacts/static/css/main.2f7a0e76.css",
+    "main.js": "/goit-react-hw-08-contacts/static/js/main.29c31dda.js",
+    "static/css/206.030f396c.chunk.css": "/goit-react-hw-08-contacts/static/css/206.030f396c.chunk.css",
+    "static/js/206.73ac5a20.chunk.js": "/goit-react-hw-08-contacts/static/js/206.73ac5a20.chunk.js",
+    "static/js/50.c6c6ae69.chunk.js": "/goit-react-hw-08-contacts/static/js/50.c6c6ae69.chunk.js",
+    "static/js/588.df61bbc8.chunk.js": "/goit-react-hw-08-contacts/static/js/588.df61bbc8.chunk.js",
+    "static/css/442.f297344d.chunk.css": "/goit-react-hw-08-contacts/static/css/442.f297344d.chunk.css",
+    "static/js/442.d4a23929.chunk.js": "/goit-react-hw-08-contacts/static/js/442.d4a23929.chunk.js",
+    "static/css/354.030f396c.chunk.css": "/goit-react-hw-08-contacts/static/css/354.030f396c.chunk.css",
+    "static/js/354.065d0557.chunk.js": "/goit-react-hw-08-contacts/static/js/354.065d0557.chunk.js",
+    "static/js/72.b5f6d57c.chunk.js": "/goit-react-hw-08-contacts/static/js/72.b5f6d57c.chunk.js",
+    "static/js/28.7b9cc54d.chunk.js": "/goit-react-hw-08-contacts/static/js/28.7b9cc54d.chunk.js",
+    "index.html": "/goit-react-hw-08-contacts/index.html",
+    "main.2f7a0e76.css.map": "/goit-react-hw-08-contacts/static/css/main.2f7a0e76.css.map",
+    "main.29c31dda.js.map": "/goit-react-hw-08-contacts/static/js/main.29c31dda.js.map",
+    "206.030f396c.chunk.css.map": "/goit-react-hw-08-contacts/static/css/206.030f396c.chunk.css.map",
+    "206.73ac5a20.chunk.js.map": "/goit-react-hw-08-contacts/static/js/206.73ac5a20.chunk.js.map",
+    "50.c6c6ae69.chunk.js.map": "/goit-react-hw-08-contacts/static/js/50.c6c6ae69.chunk.js.map",
+    "588.df61bbc8.chunk.js.map": "/goit-react-hw-08-contacts/static/js/588.df61bbc8.chunk.js.map",
+    "442.f297344d.chunk.css.map": "/goit-react-hw-08-contacts/static/css/442.f297344d.chunk.css.map",
+    "442.d4a23929.chunk.js.map": "/goit-react-hw-08-contacts/static/js/442.d4a23929.chunk.js.map",
+    "354.030f396c.chunk.css.map": "/goit-react-hw-08-contacts/static/css/354.030f396c.chunk.css.map",
+    "354.065d0557.chunk.js.map": "/goit-react-hw-08-contacts/static/js/354.065d0557.chunk.js.map",
+    "72.b5f6d57c.chunk.js.map": "/goit-react-hw-08-contacts/static/js/72.b5f6d57c.chunk.js.map",
+    "28.7b9cc54d.chunk.js.map": "/goit-react-hw-08-contacts/static/js/28.7b9cc54d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.2f7a0e76.css",
+    "static/js/main.29c31dda.js"
   ]
 }
