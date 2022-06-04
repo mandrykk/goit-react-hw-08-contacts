@@ -14,7 +14,7 @@ export default function ContactItem({name, number, id}) {
             </span>
             <Button
                 color="secondary"
-                type="submit"
+                type="button"
                 variant="contained"
                 onClick={() => dispatch(deleteContact(id))}
                 sx={{ float: ' right' }}
